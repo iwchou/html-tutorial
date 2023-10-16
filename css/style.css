@@ -1,10 +1,16 @@
+body {
+    background-image: url(creative-minimalistic-zebras-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+}
+
+
 .container {
-    background:linear-gradient(#ff6666, #ffe6e6
+    /*
     )
 }
 h1 {
     color: #ffffff;
-    text-shadow: 2px 2px 5px black);
+    text-shadow: 2px 2px 5px black;
 }
 h2 {
     color: rgb(0, 204, 255);
