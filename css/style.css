@@ -1,6 +1,7 @@
 body {
     background-image: url(creative-minimalistic-zebras-wallpaper-preview.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
@@ -16,3 +17,6 @@ h2 {
     color: rgb(0, 204, 255);
     text-shadow: 1px 1px 3px darkblue;
 }
+
+.borderImg {
+    border:10px; dashed red
