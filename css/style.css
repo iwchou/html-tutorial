@@ -25,11 +25,18 @@ h2 {
     font-style: normal;
 }
 
+.formating {
+    font-size: 25px;
+    line-height: 2em;
+    color: white;
+}
+
 a {
     text-decoration: none;
     font-size: 20px;
     color: yellow;
-    letter-spacing: 10px;
+    word-spacing: 30px;
+    text-transform: uppercase;
 }
 
 .borderImg {
