@@ -37,6 +37,13 @@ a {
     color: yellow;
     word-spacing: 30px;
     text-transform: uppercase;
+} 
+img {
+    max-width: 100%;
+    height: auto;
+    padding: 5px;
+    opacity: 1;
+    margin-bottom: 60px;
 }
 
 .borderImg{
