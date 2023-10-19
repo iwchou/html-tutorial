@@ -70,3 +70,12 @@ ul li {
 ul > li {
     color: yellow;
 }
+.row {
+    display: flex;
+    width: 100%;
+}
+
+.row::after {
+    display: block;
+    clear: both;
+}
