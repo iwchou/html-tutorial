@@ -64,4 +64,16 @@ ul.topnav li.dropdownIcon {
     float: right;
 }
 
-topnav.responsive
+topnav.responsive {
+    position: relative;
+}
+
+topnav.responsive li {
+    display: inline;
+    float: none;
+}
+
+ul.topnav.responsive li a {
+    display: block;
+    text-align: left;
+}
