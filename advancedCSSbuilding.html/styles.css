@@ -58,3 +58,8 @@ ul.topnav li.dropdownIcon {
         display: none;
     }
 }
+
+ul.topnav li.dropdownIcon {
+    display: block;
+    float: right;
+}
